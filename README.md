@@ -1,2 +1,3 @@
 # TemperatureConvertor
-Using HTML, CSS and JavaScript
+
+The temperature converter created using HTML, CSS, and JavaScript is a handy tool that allows users to convert temperatures between Celsius and Fahrenheit. The HTML structure includes input fields for entering the temperature value and dropdown menus to select the input and output temperature units. CSS styling provides a visually appealing interface with proper layout and design elements. JavaScript handles the conversion logic based on user input, updating the result dynamically as the user makes selections. Overall, the temperature converter offers a simple yet practical way for users to perform temperature conversions conveniently.
